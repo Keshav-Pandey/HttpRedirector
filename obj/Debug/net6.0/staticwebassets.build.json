@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "J2DIHGDrAF0+X+c2q888tj396uwys9N9Om2euoDDzUI=",
+  "Source": "HttpRedirector",
+  "BasePath": "_content/HttpRedirector",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
